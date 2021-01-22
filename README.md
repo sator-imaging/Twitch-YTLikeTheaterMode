@@ -5,8 +5,10 @@ Bookmarklet to change Twitch to YouTube-like Theater Mode Layout
 
 ## Bookmarklet
 How to install:
-# Add bookmark
-# Enter the following node as "URL" in bookmark edit dialog.
+1. Add website (something you like) as bookmark.
+2. Open bookmark editor dialog for it.
+3. Rename bookmark. ex. Theater Mode.
+4. Enter the following code as "URL" in bookmark editor dialog.
 
 ```javascript
 javascript: {
